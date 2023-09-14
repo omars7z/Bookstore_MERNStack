@@ -1,8 +1,8 @@
 import React from 'react'
 
-const deleteBook = () => {
+const DeleteBook = () => {
   return (
     <div>deleteBook</div>
   )
 }
-export default deleteBook;
+export default DeleteBook;
