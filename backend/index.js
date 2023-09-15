@@ -11,7 +11,7 @@ app.use(express.json());
 app.use('/books', booksRoute);
 
 //CORS policy secuirity 
-app.use(cors());
+// app.use(cors());
 //custom access
 /*app.use(cors({
     orgin: 'http://localhost:5555',
